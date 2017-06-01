@@ -17,7 +17,7 @@
                  [org.slf4j/jcl-over-slf4j "1.7.22"]
                  [org.slf4j/log4j-over-slf4j "1.7.22"]
                  [com.walmartlabs/lacinia "0.17.0"]
-                 [com.walmartlabs/pedestal-lacinia "0.1.1"]]
+                 [com.walmartlabs/lacinia-pedestal "0.2.0"]]
 
   :min-lein-version "2.0.0"
   :resource-paths ["config", "resources"]
