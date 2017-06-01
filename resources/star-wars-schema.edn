@@ -14,7 +14,7 @@
                                    :appears_in       {:type (list :episode)}
                                    :friends          {:type (list :character)
                                                       :resolve :resolve-friends}
-                                   :primary_function {:type (list String)}}}
+                                   :primary_function {:type String}}}
 
               :human {:implements [:character]
                       :fields     {:id          {:type String}
