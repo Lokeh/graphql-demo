@@ -1,6 +1,6 @@
 # graphql-demo
 
-FIXME
+An example GraphQL service written in Clojure using [Pedestal](http://pedestal.io/) and [Lacinia](https://github.com/walmartlabs/lacinia).
 
 ## Getting Started
 
